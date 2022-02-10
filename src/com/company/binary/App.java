@@ -5,7 +5,7 @@ public class App {
     public static void main(String[] args) {
         int[] pole = {1,2,3,4,15,16,69,82,97,844,1541,2054};
 
-        System.out.println(binarySearch(pole, 2));
+        System.out.println(binarySearch(pole, 1222));
 
     }
 
